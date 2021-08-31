@@ -1,6 +1,6 @@
 <h1 align="center">netflix-clone</h1><br>
 
-![Screenshot 2021-08-18 at 15-20-36 React App](https://user-images.githubusercontent.com/54643425/129953690-0c7d1b43-664d-4c9f-9da8-f24097e68cea.png)
+![Screenshot 2021-08-18 at 15-20-36 React App](https://raw.githubusercontent.com/Gabrielcsg19/netflix-clone/master/assets/cover-img.png)
 
 ---
 Clone da página de home do Netflix desenvolvido em __React.js__ com os dados dos filmes providos pela API do __TMDB__.
